@@ -2,8 +2,8 @@
   "08983628647": {
     "izin": true
   },
-  "KONTOL123": {
-    "izin": false
+  "083163758061": {
+    "izin": true
   },
   "BAWOK123": {
     "izin": false
