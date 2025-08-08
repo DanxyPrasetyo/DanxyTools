@@ -7,7 +7,7 @@ Repository ini berisi dokumentasi dan file terkait aktivitas pada aplikasi Termu
 Berikut adalah file screenshot hasil eksekusi script di Termux:
 
 <p align="center">
-  <img src="Screenshot_2025-08-07-21-13-15-187_com.termux.jpg" alt="Screenshot 1" width="30%">
+  <img src="[Screenshot_2025-08-07-21-13-15-187_com.termux.jpg](https://ibb.co.com/ycP4bTJC)" alt="Screenshot 1" width="30%">
   <img src="Screenshot_2025-08-07-21-12-47-818_com.termux.jpg" alt="Screenshot 2" width="30%">
   <img src="Screenshot_2025-08-07-21-13-06-495_com.termux.jpg" alt="Screenshot 3" width="30%">
 </p>
