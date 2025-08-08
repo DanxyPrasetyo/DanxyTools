@@ -2,18 +2,6 @@
 
 Repository ini berisi dokumentasi dan file terkait aktivitas pada aplikasi Termux yang digunakan untuk mengirim pesan ke NGL (Not Gonna Lie).
 
-## 📸 FiLE BUKTI PENTESTING
-
-Berikut adalah file screenshot hasil eksekusi script di Termux:
-
-<p align="center">
-  <img src="[Screenshot_2025-08-07-21-13-15-187_com.termux.jpg](https://ibb.co.com/ycP4bTJC)" alt="Screenshot 1" width="30%">
-  <img src="Screenshot_2025-08-07-21-12-47-818_com.termux.jpg" alt="Screenshot 2" width="30%">
-  <img src="Screenshot_2025-08-07-21-13-06-495_com.termux.jpg" alt="Screenshot 3" width="30%">
-</p>
-
-File-file tersebut menunjukkan proses atau hasil penggunaan script, yang kemungkinan digunakan untuk mengirim pesan ke platform NGL.
-
 ## 🧾 Deskripsi Proyek
 
 **NGL (Not Gonna Lie)** adalah layanan yang memungkinkan pengguna menerima pesan secara anonim. Dalam konteks ini, pengguna mengupload screenshot dari Termux yang diduga menjalankan script untuk:
@@ -65,6 +53,7 @@ bash DanxyTools.sh
 
 > 📛 DanxyPrasetyo    
 > 🐙 [GitHub Profile](https://github.com/DanxyPrasetyo)
+> [>] Youtube: (https://youtube.com/@DanxyBot)
 
 
 📝 Silakan gunakan file ini secara bijak. Jika ingin berdiskusi atau memberi kontribusi, silakan gunakan fitur Pull Request atau Issues.
