@@ -3,7 +3,7 @@ Welcome
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 # 📂 DANXY TOOLS
 
-Repository ini berisi dokumentasi dan file terkait aktivitas pada aplikasi Termux yang digunakan untuk mengirim pesan ke NGL (Not Gonna Lie).
+Repository ini berisi dokumentasi dan file terkait aktivitas pada aplikasi Termux yang digunakan untuk menjalankan sebuah tools berikut di bawah adalah sedikit penjelasan tentang tools nya
 
 ## 🧾 Deskripsi Proyek
 
