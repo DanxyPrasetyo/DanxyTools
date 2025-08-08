@@ -53,7 +53,7 @@ bash DanxyTools.sh
 
 > 📛 DanxyPrasetyo    
 > 🐙 [GitHub Profile](https://github.com/DanxyPrasetyo)
-> [>] Youtube: (https://youtube.com/@DanxyBot)
+> 💟 [CHANNELYOUTUBE](https://www.youtube.com/@DanxyOfficial)
 
 
 📝 Silakan gunakan file ini secara bijak. Jika ingin berdiskusi atau memberi kontribusi, silakan gunakan fitur Pull Request atau Issues.
