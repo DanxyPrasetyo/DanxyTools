@@ -8,8 +8,8 @@
   "hamzy": {
     "izin": true
   },
-  "PEMBELI001": {
-    "izin": false
+  "085282559062": {
+    "izin": true
   },
   "BAJAKAN999": {
     "izin": false
