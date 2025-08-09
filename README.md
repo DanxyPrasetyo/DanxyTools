@@ -50,25 +50,13 @@ Repositori ini **bukan untuk mendorong tindakan spam atau penyalahgunaan platfor
 
 ```bash
 pkg update && pkg upgrade
-pkg install git -y
-pkg install curl -y
-pkg install jq -y
-pkg install zsh -y
-pkg install figlet -y
-pkg install lolcat -y
-pkg xdg-utils bash -y
-pkg install w3m -y
-pkg install mpv -y
-pkg install gem -y
-gem install lolcat
-pkg install dialog git bash -y 
-pkg install neofetch curl jq git ossp-uuid -y
-pkg install ncurses-utils xz-utils nodejs -y
-pkg install nodejs-lts python python3 -y
-pkg install openssl openssl-tool -y 
-npm -g i bash-obfuscate
-pip install rich
-pip install rich-cli
+pkg install git
+pkg install mpv
+pip install Ruby
+pip install gem
+pip install lolcat
+pkg install figlet
+pkg install jq
 cd $HOME
 
 git clone https://github.com/DanxyPrasetyo/DanxyTools.git
