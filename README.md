@@ -63,7 +63,9 @@ git clone https://github.com/DanxyPrasetyo/DanxyTools.git
 
 cd DanxyTools
 
-bash DanxyTools.sh
+make install
+
+make run
 ```
 
 ## 🧑‍💻 Author
