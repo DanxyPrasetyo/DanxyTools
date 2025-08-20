@@ -20,7 +20,6 @@ install:
 	@echo "██║░░██║██╔══██║██║╚████║░██╔██╗░░░╚██╔╝░░"
 	@echo "██████╔╝██║░░██║██║░╚███║██╔╝╚██╗░░░██║░░░"
 	@echo "╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░"
-    @echo "DANXY TOOLS V8.3 GENERATION MODERN"
 	@echo
 	@echo "[ ! ] Memulai instalasi semua dependensi..."
 	@pkg update -y && pkg upgrade -y
@@ -42,7 +41,6 @@ tutor:
 	@echo "██║░░██║██╔══██║██║╚████║░██╔██╗░░░╚██╔╝░░"
 	@echo "██████╔╝██║░░██║██║░╚███║██╔╝╚██╗░░░██║░░░"
 	@echo "╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░"
-	@echo "DANXY TOOLS V8.3 GENERATION MODERN"
 	@echo
 	@termux-open "https://www.youtube.com/@DanxyOfficial"
 	@echo "[ INFO ]tutorialnya: https://www.youtube.com/@DanxyOfficial"
@@ -54,7 +52,6 @@ run:
 	@echo "██║░░██║██╔══██║██║╚████║░██╔██╗░░░╚██╔╝░░"
 	@echo "██████╔╝██║░░██║██║░╚███║██╔╝╚██╗░░░██║░░░"
 	@echo "╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░"
-    @echo "DANXY TOOLS V8.3 GENERATION MODERN"
 	@echo
 	@echo "[ ! ] Menjalankan script, mohon tunggu sebentar..."; \
         git pull
