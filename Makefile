@@ -6,7 +6,6 @@ help:
 	@echo "██║░░██║██╔══██║██║╚████║░██╔██╗░░░╚██╔╝░░"
 	@echo "██████╔╝██║░░██║██║░╚███║██╔╝╚██╗░░░██║░░░"
 	@echo "╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░"
-    @echo "DANXY TOOLS V8.3 GENERATION MODEREN"
 	@echo
 	@echo "┌─[ Bantuan Perintah ]"
 	@echo "│"
