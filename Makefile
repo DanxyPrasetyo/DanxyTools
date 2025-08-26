@@ -1,5 +1,6 @@
 # File : Makefile (DanxyTools V8.3)
 # Author : DANXY OFFICIAL 1980!
+# KAYA GINI AJA MAU DI RENAME HADEH BOCIL RENAME -_-
 
 # Warna ANSI
 R  = \033[31m
@@ -98,5 +99,5 @@ run:
 	@printf "$(RST)"
 	@echo
 	@echo "$(Y)[ ! ]$(G) MENJALANKAN SCRIPT TOOLS V8.3"
-	@git pull
-	@bash DanxyTools.sh
+	git pull
+	bash DanxyTools.sh
