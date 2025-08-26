@@ -1,3 +1,4 @@
+# WARNING TOOLS INI BERBAYAR JADI HUBUNGI DANXY UNTUK INFO SELANJUTNYA!!
 Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
