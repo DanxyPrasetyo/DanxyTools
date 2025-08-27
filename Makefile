@@ -99,5 +99,5 @@ run:
 	@printf "$(RST)"
 	@echo
 	@echo "$(Y)[ ! ]$(G) MENJALANKAN SCRIPT TOOLS V8.3"
-	git pull
+	@git pull
 	bash DanxyTools.sh
