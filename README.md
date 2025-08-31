@@ -1,12 +1,13 @@
 # WARNING TOOLS INI BERBAYAR JADI HUBUNGI DANXY UNTUK INFO SELANJUTNYA!!
-Welcome
---------|
+![Deskripsi Foto](https://github.com/DanxyPrasetyo/DanxyPrasetyo/blob/main/Tak%20berjudul26_20250820174657.png)
+
+DANXY TOOLS V8.3
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
-# 📂 DANXY TOOLS
+# DANXY TOOLS
 
 Repository ini berisi dokumentasi dan file terkait aktivitas pada aplikasi Termux yang digunakan untuk menjalankan sebuah tools berikut di bawah adalah sedikit penjelasan tentang tools nya
 
-## 🧾 Deskripsi Proyek
+## Deskripsi Proyek
 
 **DANXY TOOLS**:
 
@@ -40,7 +41,7 @@ Tools ini juga sangat cocok untuk menjahili teman,guru,dll saat bermain WhatsApp
 Sekian penjelasan dari saya *DanxyOfficial✓*
 
 _BY: DANXY OFFICIAL_
-## ⚠️ Disclaimer
+## Disclaimer
 
 Repositori ini **bukan untuk mendorong tindakan spam atau penyalahgunaan platform**. Semua informasi dan file hanya untuk **tujuan pembelajaran dan dokumentasi teknis**. Tindakan spam atau pelanggaran kebijakan layanan adalah tanggung jawab masing-masing individu.
 
@@ -58,6 +59,8 @@ pip install gem
 pip install lolcat
 pkg install figlet
 pkg install jq
+pkg install sox
+pkg install termux-api
 cd $HOME
 
 git clone https://github.com/DanxyPrasetyo/DanxyTools.git
