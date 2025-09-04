@@ -1,6 +1,6 @@
 # WARNING TOOLS INI BERBAYAR JADI HUBUNGI DANXY UNTUK INFO SELANJUTNYA!!
 ![Deskripsi Foto](https://github.com/DanxyPrasetyo/DanxyTools/blob/main/foto.jpg)
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+![WELCOME BANNER](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 # DANXY TOOLS
 
 Repository ini berisi dokumentasi dan file terkait aktivitas pada aplikasi Termux yang digunakan untuk menjalankan sebuah tools berikut di bawah adalah sedikit penjelasan tentang tools nya
